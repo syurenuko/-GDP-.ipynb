@@ -1,6 +1,6 @@
 # 【衛星画像解析】夜間光データから機械学習を使ってGDPを推定してみた.ipynb
 
-Qiitaに投稿した「【衛星画像解析】夜間光データから機械学習を使ってGDPを推定してみた」で使用したコードです。
+Qiitaに投稿した「【衛星画像解析】夜間光データから機械学習を使ってGDPを推定してみた（https://qiita.com/syurenuko/items/63c9ef9528def7075b7e )」で使用したコードです。
 
 データサイトからデータを持ってきて、データ加工し、夜間光データからGDPを機械学習で推定する流れになっています。
 
@@ -17,4 +17,4 @@ DMSP-OLS衛星の夜間光データを可視化するにあたって【入門】
 ## ipynbファイルが読み込まれない時
 GitHubの不具合でipynbファイルが読み込まれないことがあるそうです。その時はnbviewer(https://nbviewer.jupyter.org/) にURL貼り付けると見れるそうなので試してみてください。
 
-一応このipynbファイルのnbviewerURL (https://nbviewer.jupyter.org/github/syurenuko/NightLight_GDP.ipynb/blob/main/%E3%80%90%E8%A1%9B%E6%98%9F%E7%94%BB%E5%83%8F%E8%A7%A3%E6%9E%90%E3%80%91%E5%A4%9C%E9%96%93%E5%85%89%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8B%E3%82%89%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6GDP%E3%82%92%E6%8E%A8%E5%AE%9A%E3%81%99%E3%82%8B.ipynb)
+このipynbファイルのnbviewerURL (https://nbviewer.jupyter.org/github/syurenuko/NightLight_GDP.ipynb/blob/main/%E3%80%90%E8%A1%9B%E6%98%9F%E7%94%BB%E5%83%8F%E8%A7%A3%E6%9E%90%E3%80%91%E5%A4%9C%E9%96%93%E5%85%89%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8B%E3%82%89%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6GDP%E3%82%92%E6%8E%A8%E5%AE%9A%E3%81%99%E3%82%8B.ipynb)
