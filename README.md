@@ -1,4 +1,4 @@
-# 衛星画像解析】夜間光データから機械学習を使ってGDPを推定してみた.ipynb
+# 【衛星画像解析】夜間光データから機械学習を使ってGDPを推定してみた.ipynb
 
 Qiitaに投稿した「【衛星画像解析】夜間光データから機械学習を使ってGDPを推定してみた」で使用したコードです。
 
@@ -8,8 +8,8 @@ DMSP-OLS衛星の夜間光データを可視化するにあたって【入門】
 
 ## 使用したデータサイト
 
-○Version 4 DMSP-OLS Nighttime Lights Time Series(https://ngdc.noaa.gov/eog/dmsp/downloadV4composites.html)
+・Version 4 DMSP-OLS Nighttime Lights Time Series(https://ngdc.noaa.gov/eog/dmsp/downloadV4composites.html)
 
-○【DataHub】Country, Regional and World GDP (Gross Domestic Product)(https://datahub.io/core/gdp)
+・【DataHub】Country, Regional and World GDP (Gross Domestic Product)(https://datahub.io/core/gdp)
 
-○国土数値情報（国土交通省）(https://nlftp.mlit.go.jp/index.html)
+・国土数値情報（国土交通省）(https://nlftp.mlit.go.jp/index.html)
